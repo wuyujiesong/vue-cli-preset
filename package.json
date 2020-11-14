@@ -1,20 +1,12 @@
 {
-  "name": "vue-cli-preset",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wuyujiesong/vue-cli-preset.git"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wuyujiesong/vue-cli-preset/issues"
-  },
-  "homepage": "https://github.com/wuyujiesong/vue-cli-preset#readme"
+  "author": "{{author}}",
+  "license": "ISC"
 }
